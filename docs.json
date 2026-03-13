@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Faramesh",
   "colors": {
-    "primary": "#7015a3",
-    "light": "#9206c9",
-    "dark": "#5b1480"
+    "primary": "#00e5c4",
+    "light": "#00ffd9",
+    "dark": "#017564"
   },
   "favicon": "/favicon.svg",
   "navigation": {
